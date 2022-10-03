@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Sidrah Shoaib
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning android development in Kotlin
+- 📫 Reach me at shoaib.sidrah@gmail.com
